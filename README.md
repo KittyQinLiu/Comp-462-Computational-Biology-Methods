@@ -2,7 +2,7 @@
 Sept - Dec 2016, coding assignments
 
 
-File 'A1ques3' implements Needdleman Wunsch algorithm to solve sequence alignment question 3 of HW1.
+File 'A1ques3' implements Needdleman Wunsch algorithm to solve sequence alignment question 3 of HW1. Relevent data files are: BRCA1_reduced.fa and BRCA1.fa
 
 File 'Vertibi' implements Viterbi algorithm to solve the Hidden Markov Model problem, question 1 of HW3. Relevent data files are: hw3_proteins.fa
 
